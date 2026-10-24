@@ -1,14 +1,10 @@
-# Ben Tan
-
-**Technical Privacy Program Manager**
+[![Ben Tan's portfolio introduction beside the Bending Machine on the landing page.](images/landing.png)](https://ben-tan.com/)
 
 <p>
   <a href="https://ben-tan.com"><img src="images/buttons/view-work.svg" height="50" alt="View my work"></a>&nbsp; 
   <a href="https://www.linkedin.com/in/tanjaminben/"><img src="images/buttons/linkedin.svg" height="50" alt="LinkedIn"></a>&nbsp; 
   <a href="https://ko-fi.com/itsbent"><picture><source media="(prefers-reduced-motion: reduce)" srcset="images/buttons/kofi-static.svg"><img src="images/buttons/kofi.svg" height="50" alt="Throw money at me"></picture></a>&nbsp; 
 </p>
-
-[![Ben Tan's portfolio introduction beside the Bending Machine on the landing page.](images/landing.png)](https://ben-tan.com/)
 
 ## Privacy tools
 
