@@ -2,8 +2,6 @@
 
 **Technical Privacy Program Manager**
 
-I turn privacy requirements into practical tools, product decisions, and clear experiences.
-
 <p>
   <a href="https://ben-tan.com"><img src="images/buttons/view-work.svg" height="50" alt="View my work"></a>&nbsp; 
   <a href="https://www.linkedin.com/in/tanjaminben/"><img src="images/buttons/linkedin.svg" height="50" alt="LinkedIn"></a>&nbsp; 
