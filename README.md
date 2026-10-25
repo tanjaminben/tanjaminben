@@ -19,7 +19,7 @@
 
 ## Art and play
 
-[Explore the Bending Machine](https://ben-tan.com/machine/) · [Comic Panels](https://ben-tan.com/guides/comic-panels/) · [Movie Posters](https://ben-tan.com/guides/movie-posters/) · [SKIP AD](https://btanjamin.itch.io/skip-ad) · [Stickers](https://ben-tan.com/stickers/)
+[Explore the Bending Machine](https://ben-tan.com/machine/) · [Comic Panels](https://ben-tan.com/guides/comic-panels/) · [Movie Posters](https://ben-tan.com/guides/movie-posters/) · [Stickers](https://ben-tan.com/stickers/)
 
 
 
